@@ -13,4 +13,4 @@ The analysis revealed insights about the global wind power market and the U.S. w
 The project had limitations due to time constraints and the availability of data. As a result, the analysis provided a high-level overview rather than in-depth insights. Some datasets were unrelated, preventing comprehensive analysis across different factors. Further analysis, such as examining ROI, power loss through transmission lines, government incentives and regulations, and competition among operators, was suggested as potential next steps to address these limitations and provide more substantial findings.
 
 
-> Interactive Tableau Dashboard [here]
+> Interactive Tableau Dashboard [here](https://github.com/SaidJomaa/Wind-Turbine-Investment-Analysis-#:~:text=Wind%20Turbine%20Master%20Tableau.twbx)
